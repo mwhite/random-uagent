@@ -87,11 +87,12 @@ function chrome_version() {
     return rand(13, 15) . '.0.' . rand(800, 899) . '.0';
 }
 
-function presto_version2() {
-    return rand(10, 12) . '.00';
-}
 function presto_version() {
     return '2.9.' . rand(160, 190);
+}
+
+function presto_version2() {
+    return rand(10, 12) . '.00';
 }
 
 function firefox($arch) {
