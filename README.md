@@ -22,7 +22,7 @@ Changelog
 * 2012-07-17: refactored by Mike White (<m@mwhite.info>) for readability,
               accuracy, and ease of modification
 * 2011-11-01: initial release by Luka Pusic (<pusic93@gmail.com>)
-              see http://statowl.com/operating_system_market_share_by_os_version.php
+              see http://360percents.com/posts/php-random-user-agent-generator/ 
 
 License
 -------
