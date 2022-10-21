@@ -63,9 +63,9 @@ function chooseRandomBrowserAndOS() {
 }
     
 if (! function_exists('array_random')) {
-    function array_random(array $array)
+    function array_random(array $array, $number = 1)
     {
-        return $array[array_rand($array, 1)];
+        return $array[array_rand($array, $number)];
     }
 }
 
